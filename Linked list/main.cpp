@@ -8,7 +8,7 @@ int main()
 	Add_L(head, 5);
 	Add_L(head, 5);
 	Add_L(head, 5);
-	Add_L(head, 7);
+	
 	Add_L(head, 5);
 	Print_L(head);
 	printf("%d\n", GetElem_L(head, 2));
