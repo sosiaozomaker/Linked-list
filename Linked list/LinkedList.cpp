@@ -1,5 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
 #include"Link.h"
 int Count;
 void Create(LinkList &head){
